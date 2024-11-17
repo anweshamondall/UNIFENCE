@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="app_name">UniFence</string>
+    <string name="title_activity_maps">Unifence</string>
+    <string name="title_attendance_marking">Attendance Marking</string>
+
 </resources>
